@@ -1,4 +1,3 @@
-module github.com/dannid33/noname
 
 go 1.22.4
 
